@@ -1,0 +1,9 @@
+@media scree and (max-width: 760px){
+    body{
+        flex-direction: column;
+        
+    }
+}
+
+    
+ 
